@@ -9,8 +9,6 @@ I'm spending my most of time for coding everyday
 - 🔭 I’m a freelancer, so always looking for the next challenge!
 - 🌱 I love learning new frameworks and technologies!
 
-![image](https://user-images.githubusercontent.com/55793602/188342874-b28b22b8-67a0-4efe-ba3b-4f1d4850261a.png)
-Here is my [Portfolio Website](https://charly-punay.herokuapp.com/project)
 
 ## 📚 My Tech Skills
 ![1_Ms2YERLtNmb8ryKu8cXF-g](https://user-images.githubusercontent.com/55793602/188342247-ebc881d2-231b-4618-8b95-90a432d97b95.png)
@@ -19,6 +17,11 @@ Here is my [Portfolio Website](https://charly-punay.herokuapp.com/project)
 - Backend: Node js, Laravel, Deno, Express, Nest js
 - Database: Sql, NoSql
 - Cloud: AWS, GCP
+
+
+## ✨My [Portfolio Website](https://charly-punay.herokuapp.com/project)
+![image](https://user-images.githubusercontent.com/55793602/188342874-b28b22b8-67a0-4efe-ba3b-4f1d4850261a.png)
+
 
 ## 🤝 How To Reach Me
 You can reach out to me via email [puchenglie@gmail.com](mailto:puchenglie@gmail.com)
