@@ -22,6 +22,3 @@ I'm spending my most of time for coding everyday
 ## ✨My Portfolio Website
 ![image](https://user-images.githubusercontent.com/55793602/188342874-b28b22b8-67a0-4efe-ba3b-4f1d4850261a.png)
 
-
-## 🤝 How To Reach Me
-You can reach out to me via email [puchenglie@gmail.com](mailto:puchenglie@gmail.com)
