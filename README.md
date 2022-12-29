@@ -1,9 +1,9 @@
 ![pexels-negative-space-169573](https://user-images.githubusercontent.com/55793602/188342392-72fd7a0c-1a43-4b9b-83d9-3765499a634c.jpg)
 
-## 👋 Thanks for your visiting my Github profile!
+## 👋 Thank you for visiting my Github profile!
 
 
-**I'm a full stack developer and my main programming language is a JavaScript**
+**I'm a full stack developer and my main programming language is JavaScript**
 
 I'm spending my most of time for coding everyday
 - 🔭 I’m a freelancer, so always looking for the next challenge!
